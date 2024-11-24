@@ -1,0 +1,14 @@
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\AquariumApp\bin\Debug\net9.0\AquariumApp.exe
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\AquariumApp\bin\Debug\net9.0\AquariumApp.deps.json
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\AquariumApp\bin\Debug\net9.0\AquariumApp.runtimeconfig.json
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\AquariumApp\bin\Debug\net9.0\AquariumApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\AquariumApp\bin\Debug\net9.0\AquariumApp.pdb
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\AquariumApp\obj\Debug\net9.0\AquariumApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\AquariumApp\obj\Debug\net9.0\AquariumApp.AssemblyInfoInputs.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\AquariumApp\obj\Debug\net9.0\AquariumApp.AssemblyInfo.cs
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\AquariumApp\obj\Debug\net9.0\AquariumApp.csproj.CoreCompileInputs.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\AquariumApp\obj\Debug\net9.0\AquariumApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\AquariumApp\obj\Debug\net9.0\refint\AquariumApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\AquariumApp\obj\Debug\net9.0\AquariumApp.pdb
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\AquariumApp\obj\Debug\net9.0\AquariumApp.genruntimeconfig.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\AquariumApp\obj\Debug\net9.0\ref\AquariumApp.dll

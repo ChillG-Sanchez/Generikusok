@@ -1,0 +1,14 @@
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\SmartHomeApp\bin\Debug\net9.0\SmartHomeApp.exe
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\SmartHomeApp\bin\Debug\net9.0\SmartHomeApp.deps.json
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\SmartHomeApp\bin\Debug\net9.0\SmartHomeApp.runtimeconfig.json
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\SmartHomeApp\bin\Debug\net9.0\SmartHomeApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\SmartHomeApp\bin\Debug\net9.0\SmartHomeApp.pdb
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\SmartHomeApp\obj\Debug\net9.0\SmartHomeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\SmartHomeApp\obj\Debug\net9.0\SmartHomeApp.AssemblyInfoInputs.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\SmartHomeApp\obj\Debug\net9.0\SmartHomeApp.AssemblyInfo.cs
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\SmartHomeApp\obj\Debug\net9.0\SmartHomeApp.csproj.CoreCompileInputs.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\SmartHomeApp\obj\Debug\net9.0\SmartHomeApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\SmartHomeApp\obj\Debug\net9.0\refint\SmartHomeApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\SmartHomeApp\obj\Debug\net9.0\SmartHomeApp.pdb
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\SmartHomeApp\obj\Debug\net9.0\SmartHomeApp.genruntimeconfig.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\SmartHomeApp\obj\Debug\net9.0\ref\SmartHomeApp.dll

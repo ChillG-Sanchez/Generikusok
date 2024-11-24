@@ -1,0 +1,14 @@
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\RankingApp\bin\Debug\net9.0\RankingApp.exe
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\RankingApp\bin\Debug\net9.0\RankingApp.deps.json
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\RankingApp\bin\Debug\net9.0\RankingApp.runtimeconfig.json
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\RankingApp\bin\Debug\net9.0\RankingApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\RankingApp\bin\Debug\net9.0\RankingApp.pdb
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\RankingApp\obj\Debug\net9.0\RankingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\RankingApp\obj\Debug\net9.0\RankingApp.AssemblyInfoInputs.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\RankingApp\obj\Debug\net9.0\RankingApp.AssemblyInfo.cs
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\RankingApp\obj\Debug\net9.0\RankingApp.csproj.CoreCompileInputs.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\RankingApp\obj\Debug\net9.0\RankingApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\RankingApp\obj\Debug\net9.0\refint\RankingApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\RankingApp\obj\Debug\net9.0\RankingApp.pdb
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\RankingApp\obj\Debug\net9.0\RankingApp.genruntimeconfig.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\RankingApp\obj\Debug\net9.0\ref\RankingApp.dll

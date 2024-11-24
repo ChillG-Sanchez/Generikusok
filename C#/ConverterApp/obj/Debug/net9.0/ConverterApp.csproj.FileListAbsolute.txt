@@ -1,0 +1,14 @@
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ConverterApp\bin\Debug\net9.0\ConverterApp.exe
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ConverterApp\bin\Debug\net9.0\ConverterApp.deps.json
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ConverterApp\bin\Debug\net9.0\ConverterApp.runtimeconfig.json
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ConverterApp\bin\Debug\net9.0\ConverterApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ConverterApp\bin\Debug\net9.0\ConverterApp.pdb
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ConverterApp\obj\Debug\net9.0\ConverterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ConverterApp\obj\Debug\net9.0\ConverterApp.AssemblyInfoInputs.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ConverterApp\obj\Debug\net9.0\ConverterApp.AssemblyInfo.cs
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ConverterApp\obj\Debug\net9.0\ConverterApp.csproj.CoreCompileInputs.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ConverterApp\obj\Debug\net9.0\ConverterApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ConverterApp\obj\Debug\net9.0\refint\ConverterApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ConverterApp\obj\Debug\net9.0\ConverterApp.pdb
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ConverterApp\obj\Debug\net9.0\ConverterApp.genruntimeconfig.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ConverterApp\obj\Debug\net9.0\ref\ConverterApp.dll

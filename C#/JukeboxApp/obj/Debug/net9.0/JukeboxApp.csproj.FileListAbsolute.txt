@@ -1,0 +1,14 @@
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\JukeboxApp\bin\Debug\net9.0\JukeboxApp.exe
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\JukeboxApp\bin\Debug\net9.0\JukeboxApp.deps.json
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\JukeboxApp\bin\Debug\net9.0\JukeboxApp.runtimeconfig.json
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\JukeboxApp\bin\Debug\net9.0\JukeboxApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\JukeboxApp\bin\Debug\net9.0\JukeboxApp.pdb
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\JukeboxApp\obj\Debug\net9.0\JukeboxApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\JukeboxApp\obj\Debug\net9.0\JukeboxApp.AssemblyInfoInputs.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\JukeboxApp\obj\Debug\net9.0\JukeboxApp.AssemblyInfo.cs
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\JukeboxApp\obj\Debug\net9.0\JukeboxApp.csproj.CoreCompileInputs.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\JukeboxApp\obj\Debug\net9.0\JukeboxApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\JukeboxApp\obj\Debug\net9.0\refint\JukeboxApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\JukeboxApp\obj\Debug\net9.0\JukeboxApp.pdb
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\JukeboxApp\obj\Debug\net9.0\JukeboxApp.genruntimeconfig.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\JukeboxApp\obj\Debug\net9.0\ref\JukeboxApp.dll

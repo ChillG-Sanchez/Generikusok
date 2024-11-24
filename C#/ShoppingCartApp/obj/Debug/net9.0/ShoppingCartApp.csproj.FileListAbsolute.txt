@@ -1,0 +1,14 @@
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ShoppingCartApp\bin\Debug\net9.0\ShoppingCartApp.exe
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ShoppingCartApp\bin\Debug\net9.0\ShoppingCartApp.deps.json
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ShoppingCartApp\bin\Debug\net9.0\ShoppingCartApp.runtimeconfig.json
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ShoppingCartApp\bin\Debug\net9.0\ShoppingCartApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ShoppingCartApp\bin\Debug\net9.0\ShoppingCartApp.pdb
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ShoppingCartApp\obj\Debug\net9.0\ShoppingCartApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ShoppingCartApp\obj\Debug\net9.0\ShoppingCartApp.AssemblyInfoInputs.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ShoppingCartApp\obj\Debug\net9.0\ShoppingCartApp.AssemblyInfo.cs
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ShoppingCartApp\obj\Debug\net9.0\ShoppingCartApp.csproj.CoreCompileInputs.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ShoppingCartApp\obj\Debug\net9.0\ShoppingCartApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ShoppingCartApp\obj\Debug\net9.0\refint\ShoppingCartApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ShoppingCartApp\obj\Debug\net9.0\ShoppingCartApp.pdb
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ShoppingCartApp\obj\Debug\net9.0\ShoppingCartApp.genruntimeconfig.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\ShoppingCartApp\obj\Debug\net9.0\ref\ShoppingCartApp.dll

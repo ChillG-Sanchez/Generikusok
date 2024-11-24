@@ -1,0 +1,14 @@
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\TimestampedValueApp\bin\Debug\net9.0\TimestampedValueApp.exe
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\TimestampedValueApp\bin\Debug\net9.0\TimestampedValueApp.deps.json
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\TimestampedValueApp\bin\Debug\net9.0\TimestampedValueApp.runtimeconfig.json
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\TimestampedValueApp\bin\Debug\net9.0\TimestampedValueApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\TimestampedValueApp\bin\Debug\net9.0\TimestampedValueApp.pdb
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\TimestampedValueApp\obj\Debug\net9.0\TimestampedValueApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\TimestampedValueApp\obj\Debug\net9.0\TimestampedValueApp.AssemblyInfoInputs.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\TimestampedValueApp\obj\Debug\net9.0\TimestampedValueApp.AssemblyInfo.cs
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\TimestampedValueApp\obj\Debug\net9.0\TimestampedValueApp.csproj.CoreCompileInputs.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\TimestampedValueApp\obj\Debug\net9.0\TimestampedValueApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\TimestampedValueApp\obj\Debug\net9.0\refint\TimestampedValueApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\TimestampedValueApp\obj\Debug\net9.0\TimestampedValueApp.pdb
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\TimestampedValueApp\obj\Debug\net9.0\TimestampedValueApp.genruntimeconfig.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\C#\TimestampedValueApp\obj\Debug\net9.0\ref\TimestampedValueApp.dll

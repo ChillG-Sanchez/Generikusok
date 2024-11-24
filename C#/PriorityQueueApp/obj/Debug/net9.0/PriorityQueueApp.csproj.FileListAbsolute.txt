@@ -1,0 +1,14 @@
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\PriorityQueueApp\bin\Debug\net9.0\PriorityQueueApp.exe
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\PriorityQueueApp\bin\Debug\net9.0\PriorityQueueApp.deps.json
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\PriorityQueueApp\bin\Debug\net9.0\PriorityQueueApp.runtimeconfig.json
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\PriorityQueueApp\bin\Debug\net9.0\PriorityQueueApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\PriorityQueueApp\bin\Debug\net9.0\PriorityQueueApp.pdb
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\PriorityQueueApp\obj\Debug\net9.0\PriorityQueueApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\PriorityQueueApp\obj\Debug\net9.0\PriorityQueueApp.AssemblyInfoInputs.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\PriorityQueueApp\obj\Debug\net9.0\PriorityQueueApp.AssemblyInfo.cs
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\PriorityQueueApp\obj\Debug\net9.0\PriorityQueueApp.csproj.CoreCompileInputs.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\PriorityQueueApp\obj\Debug\net9.0\PriorityQueueApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\PriorityQueueApp\obj\Debug\net9.0\refint\PriorityQueueApp.dll
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\PriorityQueueApp\obj\Debug\net9.0\PriorityQueueApp.pdb
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\PriorityQueueApp\obj\Debug\net9.0\PriorityQueueApp.genruntimeconfig.cache
+C:\Users\ChillG\Desktop\Petrikes Szoftverezgetés\Asztali_Mariann\Generikusok\PriorityQueueApp\obj\Debug\net9.0\ref\PriorityQueueApp.dll
